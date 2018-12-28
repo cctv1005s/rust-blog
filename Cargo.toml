@@ -1,0 +1,6 @@
+[package]
+name = "rust-blog"
+version = "0.1.0"
+authors = ["cctv1005s <384113872@qq.com>"]
+
+[dependencies]
